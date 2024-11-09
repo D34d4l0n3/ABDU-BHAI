@@ -1,5 +1,5 @@
 {
-  "name": "levanter@5.2.3",
+  "name": "A B D U L L A H",
   "description": "",
   "keywords": ["noedjs"],
   "success_url": "/",
@@ -25,14 +25,14 @@
       "value": "."
     },
     "SESSION_ID": {
-      "description": "session id",
+      "description": "levanter_94ca2e68f525645c29e041a35e87a71cc",
       "required": true,
       "value": ""
     },
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
       "required": false,
-      "value": "❤️,LyFE"
+      "value": "❤️,MADE BY ABDULLAH"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered.",
@@ -55,7 +55,7 @@
     "WARN_LIMIT": {
       "description": "Maximum number of wanings to a person.",
       "required": false,
-      "value": "3"
+      "value": "2"
     },
     "FORCE_LOGOUT": {
       "description": "In Some scenario have to logout web, Only such case make this true and back to false after logout.",
@@ -110,7 +110,7 @@
     "AJOIN": {
       "description": "Accept Group join request(Group privacy)",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "PERSONAL_MESSAGE": {
       "description": "Send a Welcome message on personal chat",
